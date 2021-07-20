@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1583506853 source:c:\users\62822\documents\bram.c\ai\main.cpp
+	<fstream>
+	<stdlib.h>
+	<iostream>
+	<cmath>
+	<conio.h>
+
+1583506853 source:e:\backup document\bram.c\ai\main.cpp
+	<fstream>
+	<stdlib.h>
+	<iostream>
+	<cmath>
+	<conio.h>
+
